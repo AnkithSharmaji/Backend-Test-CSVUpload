@@ -8,7 +8,9 @@ CSV Uploader is a Node.js web application that allows users to upload CSV files,
 Clone this repository or download the source code.
 
 Install the dependencies by running npm install in the project directory.
+
 Start the application with node index.js.
+
 Open your web browser and visit http://localhost:7001 to access the application.
 
 **Features**
