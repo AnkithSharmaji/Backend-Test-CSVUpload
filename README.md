@@ -13,13 +13,19 @@ Start the application with node index.js.
 
 Open your web browser and visit http://localhost:7001 to access the application.
 
+
+
 **Features**
+
 Upload CSV files.
 View uploaded files.
 Open CSV files and display their contents in a table.
 Delete CSV files.
 
+
+
 **Dependencies**
+
 express
 multer
 csv-parser
